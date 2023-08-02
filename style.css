@@ -67,9 +67,7 @@
     color: hsl(var(--clr-almostWhite));
     background-color: hsl(var(--clr-veryDarkGrey));
     min-height: 100vh;
-    
-    width: 30%;
-    margin-left: 35%;
+  
     overflow-x: hidden;
   }
   
@@ -278,7 +276,7 @@
   }
   
   .slider {
-    width: 50%;
+    width: 100%;
     margin-top: 1rem;
     margin-bottom: 2rem;
   }
@@ -446,3 +444,5 @@
     background-color: hsl(var(--clr-neonGreen));
     border: 2px solid hsl(var(--clr-neonGreen));
   }
+
+  
